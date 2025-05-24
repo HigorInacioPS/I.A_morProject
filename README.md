@@ -1,12 +1,7 @@
 # I.A_marProject
 OBS: IA_MAR NÃO SUBSTITUI A AJUDA DE PROFISSIONAIS.
 
-
-##########################################
 ARQUIVO EXECUTAVEL: https://drive.google.com/drive/folders/1o2dNd8VgYnBoIJeOAjaLe6YSslcv0FlL?usp=sharing
-##########################################
-
-
 
 # I.A_mar - Assistente de Bem Estar Emocional
 
